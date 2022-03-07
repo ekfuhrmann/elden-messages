@@ -429,6 +429,20 @@ I was tired of scanning multiple menus trying to find a specific word or phrase 
 
 ---
 
+### Conjunctions
+* and then
+* or
+* but
+* therefore
+* in short
+* except
+* by the way
+* so to speak
+* all the more
+* ,
+
+---
+
 ### Gestures
 * Point Fowards
 * Point Upwards
