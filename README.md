@@ -111,7 +111,7 @@ I was tired of scanning multiple menus trying to find a specific word or phrase 
 * gianr sort
 * sinner
 * theif
-* liear
+* liar
 * dastard
 * traitor
 * pair
